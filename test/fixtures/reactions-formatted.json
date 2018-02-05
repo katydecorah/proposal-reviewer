@@ -1,0 +1,43 @@
+{
+  "1": [
+    {
+      "issue": 1,
+      "count": "+1",
+      "reviewer": "katydecorah"
+    }
+  ],
+  "2": [
+    {
+      "issue": 2,
+      "count": "+1",
+      "reviewer": "elaconfbot"
+    },
+    {
+      "issue": 2,
+      "count": "+1",
+      "reviewer": "fontbot"
+    },
+    {
+      "issue": 2,
+      "count": "+1",
+      "reviewer": "katydecorah"
+    }
+  ],
+  "3": [
+    {
+      "issue": 3,
+      "count": "-1",
+      "reviewer": "elaconfbot"
+    },
+    {
+      "issue": 3,
+      "count": "-1",
+      "reviewer": "fontbot"
+    },
+    {
+      "issue": 3,
+      "count": "-1",
+      "reviewer": "katydecorah"
+    }
+  ]
+}
